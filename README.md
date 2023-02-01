@@ -14,7 +14,7 @@
 
 Ever had an idea for a really cool character for a story, or wanted to have somewhere to put down all your game's NPCs? 
 
-Then try [Imaginerium](https://imaginerium.netlify.app)!
+Then try [Imaginerium](https://imaginerium.netlify.app)! <-------
 
 Imaginerium is a world-building site for creatives of all stripes - writers, gamers, and anyone who has an original character or concept they'd like to put down on the internet. Unlike other similar sites, Imaginerium has been designed with accessibility and simplicity of use as the foremost consideration. Using Imaginerium you can create characters and collaborate with your friends, as well as generate and edit world maps for all sorts of storytelling ideas.
 
